@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "WordleBot",
+  "description": "A tool to assist in solving the NYT Wordle game.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+ 	"128": "wordlebot_icon.png"
+  }
+}
+
